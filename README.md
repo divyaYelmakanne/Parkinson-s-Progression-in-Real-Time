@@ -7,7 +7,7 @@
 
 **Project Name:** NeuroType+  
 **Description:** Clinical-grade digital biomarker platform for continuous Parkinson’s disease progression tracking.  
-**URL:** *(Add your project or deployment link here)*  
+**URL : https://parkinson-s-progression-in-real-tim.vercel.app/ 
 
 ---
 
@@ -100,3 +100,4 @@ Once done, your project will be live on your custom domain.
 ---
 
 © 2025 Divya Yelmakanne. All rights reserved.
+
